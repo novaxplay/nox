@@ -1,12 +1,12 @@
-# [NOX] (NOX)
+# NOX
 
-[NOX] is a BEP-20 token deployed on the Binance Smart Chain (BSC). 
+NOX is a BEP-20 token deployed on the Binance Smart Chain (BSC). 
 ## 📊 Tokenomics
 
-* **Token Name:** [NOX]
-* **Symbol:** [NOX]
+* **Token Name:** NOX
+* **Symbol:** NOX
 * **Decimals:** 18
-* **Total Supply:** [1,000,000,000]
+* **Total Supply:** 1,000,000,000
 * **Network:** Binance Smart Chain (BEP-20)
 
 ## 📝 Contract Address
@@ -17,9 +17,9 @@
 
 ## ⚙️ Features
 
-* **Burnable:** [No]
-* **Mintable:** [No]
-* **Tax/Fee:** [No]
+* **Burnable:** No
+* **Mintable:** No
+* **Tax/Fee:** No
 
 ## 🚀 How to Add to MetaMask
 
